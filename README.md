@@ -3,7 +3,7 @@
   <img src="assets/2.jpg" title="Screenshot of application.">
 </a>
 
- <p align="center"><a href="https://joshuaakanetuk.github.io/watched">Live App</a><br><br>🎬Log and track all of the movies you watch.<br>For movie and data fanatics.</p>
+ <p align="center"><a href="https://joshuaakanetuk.github.io/watched">Live App</a><br><br>🎬 Log and track all of the movies you watch.<br>For movie and data fanatics.</p>
 
 ## Motivation
 Inspired by Letterboxd, I wanted a personal diary for movies and access to my database of watched movies.
