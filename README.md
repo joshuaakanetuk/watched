@@ -1,11 +1,9 @@
 # Watched
-<a href="" title="Use Watched Now!">
-  <img src="assets/2.jpg" alt="">
+<a href="https://joshuaakanetuk.github.io/watched" title="Use Watched Now!">
+  <img src="assets/2.jpg" title="Screenshot of application.">
 </a>
 
- <center><a href="">Live App</a><br><br>🎬Log and track all of the movies you watch. 
- 
- For movie and data fanatics.</center>
+ <p align="center"><a href="https://joshuaakanetuk.github.io/watched">Live App</a><br><br>🎬Log and track all of the movies you watch.<br>For movie and data fanatics.</p>
 
 ## Motivation
 Inspired by Letterboxd, I wanted a personal diary for movies and access to my database of watched movies.
@@ -29,6 +27,6 @@ Copyright 2020, Joshua Akan-Etuk. Film data from TMDb.
 
 <br>
 
-<center><a href="https://joshuaakanetuk.com" title="Joshua Akan-Etuk">
+<p align="center"><a href="https://joshuaakanetuk.com" title="Joshua Akan-Etuk">
   <img src="assets/favicon.png" alt="">
-</a></center>
+</a></p>
