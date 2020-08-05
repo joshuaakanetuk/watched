@@ -25,8 +25,9 @@ function dateToString(str) {
 function beenWatchedNumbner(id) {
   let num = 0;
   WATCHED.forEach((element) => {
-    if (element.movie.movie_id === id) num += 1;
+    if (element.movie.movie_id == id) num += 1;
   });
+
   return num;
 }
 
